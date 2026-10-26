@@ -1,0 +1,10 @@
+# Bibliotecas de la clase
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+scikit-learn
+spacy
+
+preshed<3.0.14 # preshed 3.0.14 rompe spaCy al cargar el modelo ("OverflowError: Python int too large")
