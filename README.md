@@ -6,7 +6,8 @@
 -   Se ejecuta en Python 3.12
 -   Ejecutar `python -m spacy download es_core_news_sm` (para instalar el modelo de español)
 -   Archivos [acá](practica1/)
--   Resultado:      
+-   Resultado: 
+     
 |   |genero        |n_tokens    |  
 |:- |:------------ |:---------- |  
 |0  |Otro          |1           |                            
